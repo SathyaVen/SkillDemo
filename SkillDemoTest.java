@@ -6,7 +6,7 @@ public class SkillDemoTest {
 
     @Test
     public void divide() {
-        assertEquals(2, SkillDemo.divide(1, 2));
+        assertEquals(2, SkillDemo.divide(4, 2));
     }
     
 }
